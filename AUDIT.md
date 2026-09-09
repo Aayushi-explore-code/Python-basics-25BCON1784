@@ -22,6 +22,9 @@
 | 1 | feat: add factorial program | feat: add Factorial.py | My message is clearer because it describes what the program does, while the AI message only gives the filename. |
 | 2 | feat: add fibonacci program | feat: add Febonacci.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
 | 3 | feat: add dictionary program | feat: add Dictionary.py | My message is clearer because it identifies the type of program being added, not just the filename. |
+| 4 | feat: add sum program | feat: add SumNaturalNumbers.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
+| 5 | feat: add even odd program | feat: add EvenOdd.py | My message is clearer because it describes what the program does rather than only naming the file. |
+| 6 | feat: add prime number program | feat: add PrimeNumber.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
 
 ## Audit Summary
 
