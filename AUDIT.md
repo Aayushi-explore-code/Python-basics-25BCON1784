@@ -30,3 +30,29 @@ actual repository files. Unsupported information was removed.
 The commit messages written by me were compared with the
 AI-generated alternatives, and I found that describing the
 program purpose can be clearer than only naming the file.
+
+---
+
+## HW-05 — README Claim Audit
+
+| Claim made in README | True? | Evidence |
+|---|---|---|
+| The repository contains six Python programs | Yes | Verified from the six `.py` files in the repository. |
+| Factorial.py calculates and prints the factorial of n = 5 | Yes | Verified from Factorial.py. |
+| Factorial.py uses a for loop | Yes | Verified from the for loop in Factorial.py. |
+| Factorial.py contains comments explaining the logic | Yes | Verified from the comments in Factorial.py. |
+| Febonacci.py generates and prints Fibonacci values | Yes | Verified from Febonacci.py. |
+| Febonacci.py uses a loop that runs 10 times | Yes | Verified from `range(10)` in Febonacci.py. |
+| Dictionary.py contains Name, Roll and Marks | Yes | Verified from the dictionary definition in Dictionary.py. |
+| Dictionary.py iterates through the dictionary | Yes | Verified from the for loop in Dictionary.py. |
+| SumNaturalNumbers.py calculates the sum of the first 10 natural numbers | Yes | Verified from `range(1,11)` and `sum += i`; the program calculates 55. |
+| EvenOdd.py checks whether n = 24 is even or odd | Yes | Verified from the modulus operation and if-else statement in EvenOdd.py. |
+| PrimeNumber.py checks whether n = 29 is a prime number | Yes | Verified from the divisibility loop and prime check in PrimeNumber.py. |
+| No external libraries are required | Yes | None of the six Python programs contains an import statement. |
+| The six programs can be run using the listed Python commands | Yes | The commands match the six `.py` filenames in the repository. |
+| The README describes all six programs | Yes | All six programs are listed in the README. |
+
+
+### HW-05 Audit Summary
+
+The README was expanded from three programs to six programs. The new claims were checked against the actual Python files in the repository. The descriptions in the README were verified against the current implementation of all six programs.
