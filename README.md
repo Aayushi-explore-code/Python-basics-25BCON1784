@@ -1,45 +1,63 @@
-# Beginner Python Programs
+# Python Basics
 
-A collection of basic Python programs demonstrating loops,
-sequences, conditional statements, and dictionary data structures.
+A collection of Python programs, exercises, experiments, and documentation completed during the lab sessions.
 
-## Programs Included
+The repository is organized session-wise to keep the work structured and easy to review.
 
-- **`Factorial.py`**: Calculates and prints the factorial of
-  `n = 5` using a `for` loop. The code includes comments
-  explaining the logic.
+## Sessions
 
-- **`Febonacci.py`**: Generates and prints 10 values of the
-  Fibonacci sequence using a loop.
+| Session                 | Topic                           | Status    |
+| ----------------------- | ------------------------------- | --------- |
+| [Session 5](Session-5/) | Python Basics & GitHub Workflow | Completed |
 
-- **`Dictionary.py`**: Creates a dictionary containing
-  `Name`, `Roll`, and `Marks`, then iterates through it and
-  prints each key and its corresponding value.
+More sessions will be added as the lab progresses.
 
-- **`SumNaturalNumbers.py`**: Uses a loop to add the values
-  from `1` through `10` and prints the resulting sum.
+## Repository Structure
 
-- **`EvenOdd.py`**: Checks whether `n = 24` is even or odd
-  using the modulus operator and an `if-else` statement.
+```text
+Python-basics-25BCON1784/
+|
+|-- README.md
+|
+|-- Session-5/
+|   |-- README.md
+|   |-- AUDIT.md
+|   |-- Dictionary.py
+|   |-- EvenOdd.py
+|   |-- Factorial.py
+|   |-- Febonacci.py
+|   |-- PrimeNumber.py
+|   `-- SumNaturalNumbers.py
+```
 
-- **`PrimeNumber.py`**: Checks whether `n = 29` is a prime
-  number by testing whether it is divisible by any number
-  from 2 to `n - 1`.
+## Session 5 - Python Basics & GitHub Workflow
 
-## Requirements
+Session 5 focused on practicing basic Python programming concepts and learning how to manage the work using Git and GitHub.
 
-- Python 3.x
-- No external libraries are required.
+The session includes programs covering:
 
-## How to Run
+* Loops
+* Conditional statements
+* Sequences
+* Dictionary data structures
+* Basic problem-solving using Python
+* Git and GitHub workflow
+* Documentation and audit of the work
 
-Open a terminal or command prompt in the folder containing
-the files and run:
+Detailed information and the programs can be found in the [Session 5 folder](Session-5/).
 
-```bash
-python Factorial.py
-python Febonacci.py
-python Dictionary.py
-python SumNaturalNumbers.py
-python EvenOdd.py
-python PrimeNumber.py
+## Tools Used
+
+* Python
+* Git
+* GitHub
+
+## Repository Goals
+
+This repository is maintained to:
+
+* Keep each session's work organized
+* Document concepts and activities completed
+* Track changes using Git
+* Maintain a clear record of lab work
+* Practice clean repository management
