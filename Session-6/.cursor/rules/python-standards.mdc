@@ -1,0 +1,12 @@
+--
+2 description: Python coding standards for this course
+3 globs: ["**/*.py"]
+4 alwaysApply: true
+5 --
+6 
+7 -Use descriptive variable names. Single letters are allowed only for loop counters.
+8 -Every function has a one-line docstring stating what it returns.
+9 -Use f-strings for output, never string concatenation.
+10 -Do not hard-code a number that is used more than once. Name it.
+11 -Do not add imports that are not used.
+12 -Do not add features that were not requested.
