@@ -19,12 +19,12 @@
 
 | Commit | My message | AI message | Which is clearer, and why? |
 |---|---|---|---|
-| 1 | feat: add factorial program | feat: add Factorial.py | My message is clearer because it describes what the program does, while the AI message only gives the filename. |
-| 2 | feat: add fibonacci program | feat: add Febonacci.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
-| 3 | feat: add dictionary program | feat: add Dictionary.py | My message is clearer because it identifies the type of program being added, not just the filename. |
-| 4 | feat: add sum program | feat: add SumNaturalNumbers.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
-| 5 | feat: add even odd program | feat: add EvenOdd.py | My message is clearer because it describes what the program does rather than only naming the file. |
-| 6 | feat: add prime number program | feat: add PrimeNumber.py | My message is clearer because it describes the purpose of the program rather than only naming the file. |
+| 1 | feat: add factorial program | feat: add Factorial.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
+| 2 | feat: add fibonacci program | feat: add Febonacci.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
+| 3 | feat: add dictionary program | feat: add Dictionary.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
+| 4 | feat: add sum program | feat: add SumNaturalNumbers.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
+| 5 | feat: add even odd program | feat: add EvenOdd.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
+| 6 | feat: add prime number program | feat: add PrimeNumber.py | The AI message is clearer as it describes the purpose exactly in more concise way by giving the file name directly. |
 
 ## Audit Summary
 
