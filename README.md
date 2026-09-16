@@ -9,6 +9,7 @@ The repository is organized session-wise to keep the work structured and easy to
 | Session                 | Topic                           | Status    |
 | ----------------------- | ------------------------------- | --------- |
 | [Session 5](Session-5/) | Python Basics & GitHub Workflow | Completed |
+| [Session 6](Session-6/) | CURSOR: AI INSIDE THE EDITOR | Completed|
 
 More sessions will be added as the lab progresses.
 
@@ -27,7 +28,18 @@ Python-basics-25BCON1784/
 |   |-- Factorial.py
 |   |-- Febonacci.py
 |   |-- PrimeNumber.py
-|   `-- SumNaturalNumbers.py
+|   |-- SumNaturalNumbers.py
+|
+|-- Session-6/
+|   |-- messy_report.py
+|   |-- messy_report_rf.py
+|   |-- original_output.txt
+|   |-- rf_output.txt
+|   |-- .cursor/
+|       |-- rules/
+|           |-- python-standards.mdc
+|   
+|
 ```
 
 ## Session 5 - Python Basics & GitHub Workflow
@@ -46,6 +58,16 @@ The session includes programs covering:
 
 Detailed information and the programs can be found in the [Session 5 folder](Session-5/).
 
+## Session 6 - CURSOR: AI INSIDE THE EDITOR
+
+Session 6 focuses on using cursor
+The session include:
+* using different modes of cursor
+* creating .cursor/rules/python-standards.mdc
+* refactoring the messy_report.py file
+* recording the output
+Detailed information and the programs can be found in the [Session 6 folder](Session-6/) .
+  
 ## Tools Used
 
 * Python
